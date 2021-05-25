@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aayush Chauhan
 - 👀 I’m interested in web developments
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on new and wnique projects
+- 💞️ I’m looking to collaborate on new and unique projects
 - 📫 How to reach me https://aayush.works/
 
 <!---
